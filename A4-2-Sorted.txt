@@ -1,0 +1,50 @@
+Initializing Information: 
+  Array Size: 20000
+  Number of Runs per test: 10
+  Initial data: Sorted
+
+After the tests, here is the best setup: 
+  Algorithm: Mergesort
+  Data Status: sorted
+  Min Recurse: 45
+  Average: 1.1690999999999999E-4
+
+After the tests, here is the worst setup: 
+  Algorithm: Simple Pivot Quicksort
+  Data Status: sorted
+  Min Recurse: 35
+  Average: 0.13867045000000003
+
+Here are the per algorithm results: 
+Algorithm: Simple Pivot Quicksort
+  Best Result: 
+    Min Recurse: 15
+    Average: 0.13197885999999998
+  Worst Result: 
+    Min Recurse: 35
+    Average: 0.13867045000000003
+
+Algorithm: Median of Three Quicksort
+  Best Result: 
+    Min Recurse: 45
+    Average: 0.0011705599999999997
+  Worst Result: 
+    Min Recurse: 75
+    Average: 0.005663369999999999
+
+Algorithm: Random Pivot Quicksort
+  Best Result: 
+    Min Recurse: 75
+    Average: 2.8965999999999996E-4
+  Worst Result: 
+    Min Recurse: 5
+    Average: 0.00354002
+
+Algorithm: Mergesort
+  Best Result: 
+    Min Recurse: 45
+    Average: 1.1690999999999999E-4
+  Worst Result: 
+    Min Recurse: 5
+    Average: 2.7272E-4
+
